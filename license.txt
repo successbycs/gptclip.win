@@ -1,0 +1,61 @@
+﻿AI-BRIDGE LICENSE (No Resale / Commercial License Required)
+Version: 1.0
+Last Updated: 2026-01-28
+
+Copyright (c) 2026
+Chris Sparshott Limited trading as SuccessByCS
+All rights reserved.
+
+Author: Christopher Sparshott
+Enquiries: chris@successbycs.com
+Website: https://successbycs.com
+
+1) DEFINITIONS
+"Software" means the AI-Bridge scripts, documentation, and any included files.
+"You" means the individual or entity using the Software.
+
+2) LICENSE GRANT (PERMITTED USE)
+Subject to the restrictions below, you are granted a non-exclusive, non-transferable,
+revocable license to:
+a) Download and use the Software for your personal use; and
+b) Use the Software internally within your own organisation; and
+c) Make a reasonable number of copies for backup purposes.
+
+3) RESTRICTIONS (NOT PERMITTED WITHOUT WRITTEN PERMISSION)
+You may NOT, and may NOT allow others to:
+a) Sell, resell, rent, lease, sublicense, or commercially distribute the Software;
+b) Include the Software in any paid product, paid bundle, paid course, paid consulting
+   deliverable, or monetised offering;
+c) Charge any fee that is directly or indirectly for access to, or use of, the Software;
+d) Publish or redistribute modified versions of the Software (including forks) publicly;
+e) Remove or alter the attribution, copyright, or licensing notices.
+
+4) SHARING (ALLOWED, UNCHANGED ONLY)
+You may share the unmodified Software (including the ZIP) with others for free,
+provided that:
+a) This LICENSE.txt remains included and unmodified; and
+b) You do not charge any fee for the Software; and
+c) You do not represent the Software as your own work.
+
+5) COMMERCIAL LICENSING
+If you want to:
+- sell or resell the Software,
+- include it in any paid offering,
+- distribute a modified version,
+you must obtain a paid commercial license from SuccessByCS.
+Contact: chris@successbycs.com
+
+6) TERMINATION
+This license automatically terminates if you breach any term. On termination,
+you must stop using the Software and delete all copies in your possession or control.
+
+7) DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+8) LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
