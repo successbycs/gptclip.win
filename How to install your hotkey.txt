@@ -1,0 +1,42 @@
+﻿a# AI-Bridge: Apply Script Update (AutoHotkey v2)
+
+These steps update your AI-Bridge `.ahk` script safely and confirm it is running afterwards.
+
+## 1) Stop the currently running script
+1. Look in the Windows system tray (bottom-right).
+   - If you don’t see it, click the `^` hidden icons arrow.
+2. Find the green **H** icon (AutoHotkey).
+3. Right-click the green **H** icon.
+4. Click **Exit**.
+
+## 2) Replace the script contents with the updated code
+1. Open your current AI-Bridge script file in Notepad++ (the `.ahk` you normally run).
+2. Select all: `Ctrl + A`
+3. Paste the new full code block (replaces everything).
+4. Save the file: `Ctrl + S`
+
+Recommended naming convention:
+- Save as: `AI_bridge_AHK_v10-5.ahk` (or next version)
+
+## 3) Start the updated script
+1. In File Explorer, locate your `.ahk` file.
+2. Run it:
+   - Double-click the `.ahk`, OR
+   - Right-click → **Show more options** → **Run with AutoHotkey v2** (if you have multiple AHK versions installed)
+3. Confirm the green **H** icon appears in the tray.
+
+## 4) Quick verification (smoke check)
+1. Press `Ctrl + Alt + T`
+   - You should see a popup confirming the script is running.
+2. Copy any text (or a ChatGPT code block), then press `Ctrl + Alt + N`
+   - A new file should appear in: `C:\Python\AI-bridge\scratch`
+   - Notepad++ should open and the clipboard text should paste into the new file.
+3. Press `Ctrl + Alt + L`
+   - The log folder should open:
+     - `%LOCALAPPDATA%\AI-bridge\logs`
+   - The file `runs.tsv` should be present and should grow after each run.
+
+## Troubleshooting
+- If hotkeys do nothing: the script is not running. Re-run the `.ahk` and confirm the green **H** icon.
+- If you see v1-style errors: make sure you run the script with **AutoHotkey v2**.
+- If Notepad++ does not open: confirm Notepad++ is installed in a standard path under `Program Files`.
